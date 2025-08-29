@@ -10,10 +10,3 @@
    Floor2
    Garden
    Fixing
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
