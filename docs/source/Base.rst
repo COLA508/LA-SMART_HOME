@@ -10,7 +10,7 @@
 - M3*8 螺丝（8 颗）
 - M3*16 铜柱（4 颗）
 
-.. image::_static\1.开发板安装 _1.png
+.. image:: _static/1.开发板安装 _1.png
    :alt: ESP32 安装
    :align: center
    :width: 400px
@@ -27,7 +27,7 @@
 - M3*10 平头螺丝（2 颗）
 - M3 螺母（2 颗）
 
-.. image::_static\2.电池盒安装2.png
+.. image:: _static/2.电池盒安装2.png
    :alt: 电池盒安装
    :align: center
    :width: 400px
@@ -42,7 +42,7 @@
 - “B, C, D, E, F” 板
 - 蓝色栓扣（6 颗）
 
-.. image::_static\4.底座盖板-栓扣安装.png
+.. image:: _static/4.底座盖板-栓扣安装.png
    :alt: 底座安装
    :align: center
    :width: 400px
