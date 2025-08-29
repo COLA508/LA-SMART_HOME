@@ -8,6 +8,7 @@
 - 序号为“A”的椴木板、ESP32开发板、M3*8mm螺丝（8颗）、M3*16mm铜柱（4颗）。
 
 安装效果如下图所示：
+
 .. image:: _static/base_step1.png
    :alt: ESP32开发板安装
    :align: center
@@ -24,6 +25,7 @@
 - 电池盒、M3*10mm平头螺丝（2颗）、M3螺母（2颗）。
 
 安装效果如下图所示：
+
 .. image:: _static/2.电池盒安装2.png
    :alt: 电池盒安装
    :align: center
@@ -39,6 +41,7 @@
 - 序号为“B、C、D、E、F”的椴木板、蓝色栓扣（6颗）
 
 安装效果如下图所示：
+
 .. image:: _static/4.底座盖板-栓扣安装.png
    :alt: 底座安装
    :align: center
