@@ -1,12 +1,15 @@
-/* 让左上角蓝色栏的 logo 和项目名在一行且居中对齐 */
+/* 让左上角蓝色栏的 logo + 项目名 居中显示 */
 .wy-side-nav-search .wy-nav-top {
-    display: flex;            /* 横向排列 */
+    display: flex;
     align-items: center;      /* 垂直居中 */
-    gap: 8px;                 /* logo 和文字之间间距 */
+    justify-content: center;  /* 水平居中 */
+    gap: 8px;                 /* logo 和文字之间的间距 */
+    text-align: center;
+    width: 100%;
 }
 
-/* 调整 logo 大小（让它与文字高度接近） */
+/* 控制 logo 大小，使其与文字高度接近 */
 .wy-side-nav-search .wy-nav-top img {
-    max-height: 24px;   /* 根据实际情况调整，比如 24~32px */
-    width: auto;        /* 保持宽高比例 */
+    max-height: 24px;   /* 可以调成 28px / 32px 看效果 */
+    width: auto;        /* 保持比例 */
 }
