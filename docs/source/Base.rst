@@ -50,7 +50,7 @@
 
  底座部分安装完成效果如图所示：
 
- .. image:: _static/底座安装完成效果图.png.png
+ .. image:: _static/底座安装完成效果图.png
    :alt: 底座安装
    :align: center
    :width: 400px
