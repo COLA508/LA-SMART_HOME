@@ -32,16 +32,15 @@ exclude_patterns = []
 
 
 
-# -- Options for HTML output -------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
-
-#html_theme = 'conestack'
-#html_theme_path = [sphinx_pdj_theme.get_html_theme_path()]
+ -- Options for HTML output -------------------------------------------------
+ https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
+html_theme = 'conestack'
+html_theme_path = [sphinx_pdj_theme.get_html_theme_path()]
 html_theme = 'sphinx_rtd_theme'
-#html_theme = 'press'
+html_theme = 'press'
 
-# html_static_path = ['_static']
-# html_logo = '_static/Logo2.png'
+html_static_path = ['_static']
+html_logo = '_static/Logo2.png'
 
 html_theme_options = {
      'logo_only': True,
