@@ -28,13 +28,13 @@ html_logo = "_static/Logo.png"
 # 启用静态文件目录（logo / css）
 html_static_path = ['_static']
 
-# 主题选项
+# 主题选项（注意 logo_only = False）
 html_theme_options = {
-    'logo_only': True,      # 只显示 logo，不显示项目名称
-    'display_version': False,  # 不显示版本号
+    'logo_only': False,       # 显示 logo + 项目名称
+    'display_version': False, # 不显示版本号
 }
 
-# 自定义 CSS（可选，用于调整 logo 大小）
+# 自定义 CSS（调整 logo 和文字对齐）
 html_css_files = [
     'css/custom.css',
 ]
