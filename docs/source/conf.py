@@ -23,7 +23,7 @@ exclude_patterns = []
 html_theme = 'sphinx_rtd_theme'
 
 # 指定 logo 图片（放在 docs/_static/Logo2.png）
-html_logo = "_static/Logo.png"
+html_logo = "_static/Logo2.png"
 
 # 启用静态文件目录（logo / css）
 html_static_path = ['_static']
