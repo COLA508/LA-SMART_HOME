@@ -10,7 +10,7 @@
 from pygments.lexers import Python3Lexer
 import time
 
-project = 'Basic Starter Kit for Arduino UNO R4 WiFi'
+project = 'LA_Smart_Home-Installation tutorial'
 copyright = '2024,Bot'
 author = 'Bot'
 
