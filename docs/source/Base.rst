@@ -10,7 +10,7 @@
 - M3*8 螺丝（8 颗）
 - M3*16 铜柱（4 颗）
 
-.. image:: _static/1.开发板安装 _1.png
+.. image:: _static/1.开发板安装_1.png
    :alt: ESP32 安装
    :align: center
    :width: 400px
