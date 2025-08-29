@@ -91,7 +91,7 @@
 
 安装如下图所示：
 
-.. image:: _static\11.屋顶传感器安装2.png
+.. image:: _static/11.屋顶传感器安装2.png
    :alt: 传感器安装
    :align: center
    :width: 400px
@@ -106,7 +106,7 @@
 
 安装如下图所示：
 
-.. image:: _static\14.二层护板安装.png
+.. image:: _static/14.二层护板安装.png
    :alt: 二层组装
    :align: center
    :width: 400px
@@ -120,7 +120,7 @@
 
 安装如下图所示：
 
-.. image:: _static\15.屋顶安装.png
+.. image:: _static/15.屋顶安装.png
    :alt: 屋顶安装
    :align: center
    :width: 400px
@@ -133,7 +133,7 @@
 
 安装如下图所示：
 
-.. image:: _static\17.二层围栏安装.png
+.. image:: _static/17.二层围栏安装.png
    :alt: 围栏安装
    :align: center
    :width: 400px
