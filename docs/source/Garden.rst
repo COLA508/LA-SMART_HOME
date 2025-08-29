@@ -59,7 +59,7 @@
 
 安装如下图所示：
 
-.. image:: _static\20.大门安装.png
+.. image:: _static/20.大门安装.png
    :alt: 大门安装
    :align: center
    :width: 400px
@@ -70,7 +70,7 @@
 
 安装如下图所示：
 
-.. image:: _static\语音识别模块安装.png
+.. image:: _static/语音识别模块安装.png
    :alt: 语音识别模块安装
    :align: center
    :width: 400px
@@ -82,7 +82,7 @@
 
 安装如下图所示：
 
-.. image:: _static\LED灯模块安装.png
+.. image:: _static/LED灯模块安装.png
    :alt: LED灯模块安装
    :align: center
    :width: 400px
@@ -94,7 +94,7 @@
 
 安装如下图所示：
 
-.. image:: _static\21.花树安装.png
+.. image:: _static/21.花树安装.png
    :alt: 花树安装
    :align: center
    :width: 400px
@@ -105,7 +105,7 @@
 
 安装如下图所示：
 
-.. image:: _static\RGB灯带安装.png
+.. image:: _static/RGB灯带安装.png
    :alt: RGB安装
    :align: center
    :width: 400px
@@ -121,7 +121,7 @@
 
 安装如下图所示：
 
-.. image:: _static\22.花园围栏安装.png
+.. image:: _static/22.花园围栏安装.png
    :alt: RGB安装
    :align: center
    :width: 400px
