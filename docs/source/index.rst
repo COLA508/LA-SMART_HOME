@@ -1,14 +1,15 @@
-Basic Starter Kit for UNO R4 WiFi
-===========================================
-
+智能小屋组装教程
+===========================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :caption: 目录
 
-   Get_Started_with_Arduino/Get_Started_with_Arduino
-   Project/Project
-
-
+   Base
+   Floor1
+   Floor2
+   Garden
+   Fixing
 
 Indices and tables
 ==================
