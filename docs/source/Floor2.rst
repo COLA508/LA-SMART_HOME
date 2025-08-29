@@ -76,7 +76,7 @@
    :width: 400px
 
 
-.. image:: _static/太阳能安装接线图.png
+.. image:: _static/太阳能安装接线示意图.png
    :alt: 太阳能接线
    :align: center
    :width: 400px
