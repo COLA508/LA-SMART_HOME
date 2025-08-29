@@ -108,7 +108,7 @@
 
 安装如下图所示：
 
-.. image:: _static/14.二层护板安装.png
+.. image:: _static/14.二层护板安装2.png
    :alt: 二层组装
    :align: center
    :width: 400px
