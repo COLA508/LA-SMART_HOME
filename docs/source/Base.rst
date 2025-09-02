@@ -11,7 +11,6 @@
 .. image:: _static/开发板安装带螺丝.png
    :alt: ESP32开发板安装
    :align: center
-   :width: 400px
 
 
 
