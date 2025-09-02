@@ -12,7 +12,9 @@
    :alt: ESP32开发板安装
    :align: center
 
+.. raw:: html
 
+   <div style="margin-top: 30px;"></div>
 
 .. admonition:: 注意事项
 
