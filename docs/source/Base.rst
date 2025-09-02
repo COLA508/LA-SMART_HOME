@@ -28,12 +28,13 @@
 
 安装如下图所示：
 
-.. image:: _static/2.电池盒安装2.png
+.. image:: _static/2.电池盒带螺丝.png
    :alt: 电池盒安装
    :align: center
-   :width: 400px
+ 
 
-注意事项：
+.. admonition:: 注意事项
+
  - 固定电池盒的螺丝选用平头螺丝，使用圆头螺丝会突出顶住电池，电池无法正常安装。
 
 步骤 3：底座的安装
@@ -43,12 +44,17 @@
 
 安装如下图所示：
 
+.. image:: _static/4.底座护板安装.png
+   :alt: 底座安装
+   :align: center
+
+
 .. image:: _static/4.底座盖板-栓扣安装.png
    :alt: 底座安装
    :align: center
-   :width: 400px
+ 
 
-注意事项：
+.. admonition:: 注意事项
  - 序号为“B、C、D、E、”的椴木板安装顺序没有强制要求，但是椴木板“F”,应在它们之后安装。
  - 这一步骤只需安装最底下6个栓扣，与椴木板“F”连接的栓扣暂时无需安装。
 
@@ -57,4 +63,3 @@
  .. image:: _static/底座安装完成效果图.png
    :alt: 底座安装
    :align: center
-   :width: 400px
