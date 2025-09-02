@@ -46,11 +46,6 @@
  - 将亚克力大门驱动板安装到椴木板上时，固定螺丝无需拧得过紧，应保留适当余量，以保证窗户滑动顺畅。
  - 大门的亚克力驱动板的齿条应朝上安装。
 
-大门安装完成效果图：
-
-.. image:: _static/大门安装完成效果图.png
-   :alt: 大门安装完成效果图
-   :align: center
 
 步骤1-4：RFID感应模块的安装
 ---------------------------
@@ -60,6 +55,13 @@
 
 .. image:: _static/RFID带螺丝.png
    :alt: RFID安装
+   :align: center
+
+
+大门安装完成效果图：
+
+.. image:: _static/大门安装完成效果图.png
+   :alt: 大门安装完成效果图
    :align: center
 
 
@@ -81,7 +83,7 @@
 
 安装如下图所示：
 
-.. image:: _static/语音识别带螺丝.png
+.. image:: _static/语音模块带螺丝.png
    :alt: 语音识别模块安装
    :align: center
 
