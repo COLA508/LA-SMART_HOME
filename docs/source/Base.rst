@@ -8,7 +8,7 @@
 
 安装如下图所示：
 
-.. image:: _static/base_step1.png
+.. image:: _static/开发板安装带螺丝.png
    :alt: ESP32开发板安装
    :align: center
    :width: 400px
