@@ -43,7 +43,12 @@
 
 安装如下图所示：
 
-.. image:: _static/9.一层安装图.png
+.. image:: _static/7.一层护板安装.png
+   :alt: 一层组装
+   :align: center
+
+
+.. image:: _static/一层盖板安装.png
    :alt: 一层组装
    :align: center
 
