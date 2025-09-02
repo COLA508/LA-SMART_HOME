@@ -51,7 +51,7 @@
 .. image:: _static/一层盖板安装.png
    :alt: 一层组装
    :align: center
-
+   :width: 600px
 
 .. image:: _static/一层安装方向示意图.png
    :alt: 一层组装
