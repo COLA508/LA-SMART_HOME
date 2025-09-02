@@ -36,7 +36,7 @@
 
 安装如下图所示：
 
-.. image:: _static/窗户亚克带螺丝.png
+.. image:: _static/窗户亚克力带螺丝.png
    :alt: 窗户亚克力安装
    :align: center
 
