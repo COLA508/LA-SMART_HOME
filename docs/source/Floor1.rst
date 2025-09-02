@@ -21,7 +21,7 @@
 
 安装如下图所示：
 
-.. image:: _static/屏幕带螺丝.png
+.. image:: _static/6屏幕安装.png
    :alt: LCD屏幕安装
    :align: center
 
@@ -29,7 +29,6 @@
 .. image:: _static/屏幕安装方向示意图.png
    :alt: LCD安装方向
    :align: center
-
 
 
 .. admonition:: 注意事项
