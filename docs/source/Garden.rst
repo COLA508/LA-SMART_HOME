@@ -69,7 +69,7 @@
 .. raw:: html
 
    <div style="margin-top: 30px;"></div>
-   
+
 大门安装完成效果图：
 
 .. image:: _static/大门安装完成效果图.png
@@ -88,6 +88,9 @@
    :alt: 大门安装
    :align: center
 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 步骤2：语音识别模块的安装
 ---------------------------
@@ -123,7 +126,11 @@
    :alt: 花树安装
    :align: center
 
+.. raw:: html
 
+   <div style="margin-top: 30px;"></div>
+
+   
 步骤5：RGB灯带的安装
 ---------------------------
 零件清单：RGB灯带、棕色的围栏椴木板（最长的一条围栏）
