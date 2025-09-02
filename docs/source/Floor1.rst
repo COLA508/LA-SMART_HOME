@@ -9,10 +9,10 @@
 
 安装如下图所示：
 
-.. image:: _static/5.按键安装图.png
+.. image:: _static/按键带螺丝.png
    :alt: 按键模块安装
    :align: center
-   :width: 400px
+
 
 步骤 2：LCD 屏幕的安装
 ---------------------------
@@ -21,18 +21,18 @@
 
 安装如下图所示：
 
-.. image:: _static/6屏幕安装.png
+.. image:: _static/屏幕带螺丝.png
    :alt: LCD屏幕安装
    :align: center
-   :width: 400px
+
 
 .. image:: _static/屏幕安装方向示意图.png
    :alt: LCD安装方向
    :align: center
-   :width: 400px
 
 
-注意事项：
+
+.. admonition:: 注意事项
  - 屏幕安装时，带插座的一端黑色面板朝上安装，避免安装错误，屏幕显示倒置。
 
 步骤 3：小屋一层的组装
@@ -45,16 +45,14 @@
 .. image:: _static/9.一层安装图.png
    :alt: 一层组装
    :align: center
-   :width: 400px
+
 
 .. image:: _static/一层安装方向示意图.png
    :alt: 一层组装
    :align: center
-   :width: 400px
 
 
-
-注意事项：
+.. admonition:: 注意事项
  - 序号为“G、H、J、K”的椴木板，上下两端凸出的长度不同，为了安装牢固，稍长的一端应插于序号为“F”的椴木板上。
 
 
@@ -63,4 +61,3 @@
 .. image:: _static/10.一层安装完成效果图.png
    :alt: 一层组装安装完成
    :align: center
-   :width: 400px

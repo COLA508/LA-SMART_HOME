@@ -48,7 +48,8 @@
    :alt: 底座安装
    :align: center
 
-
+   <div style="margin-top: 30px;"></div>
+   
 .. image:: _static/4.底座盖板-栓扣安装.png
    :alt: 底座安装
    :align: center
