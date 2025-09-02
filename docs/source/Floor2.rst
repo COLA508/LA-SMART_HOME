@@ -10,7 +10,7 @@
 
 安装如下图所示：
 
-.. image:: _static/齿轮摆臂安装图.png
+.. image:: _static/齿轮摆臂带螺丝.png
    :alt: 窗户齿轮
    :align: center
 
