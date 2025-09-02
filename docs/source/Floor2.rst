@@ -40,6 +40,9 @@
    :alt: 窗户亚克力安装
    :align: center
 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 .. admonition:: 注意事项
 
@@ -63,6 +66,7 @@
 .. image:: _static/电机带螺丝.png
    :alt: 风扇安装
    :align: center
+   :width: 600px
 
 
 步骤3：太阳能充电板的安装
