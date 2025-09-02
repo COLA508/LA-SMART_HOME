@@ -11,6 +11,9 @@
    :alt: 底座固定
    :align: center
 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 .. admonition:: 注意事项
 
@@ -18,7 +21,7 @@
 
 
 
-步骤 2：风车扇叶
+步骤 2：风车扇叶的安装
 ---------------------------
 零件清单：蓝色风车扇叶
 
@@ -28,8 +31,11 @@
    :alt: 风车扇叶
    :align: center
 
+.. raw:: html
 
-步骤 3：调试窗口盖板
+   <div style="margin-top: 30px;"></div>
+
+步骤 3：调试窗口盖板的安装
 ---------------------------
 零件清单：调试窗口盖板、带logo的栓扣
 
@@ -39,7 +45,10 @@
    :alt: 调试窗口盖板
    :align: center
 
+.. raw:: html
 
+   <div style="margin-top: 30px;"></div>
+   
 .. admonition:: 注意事项
 
  - 此盖板便于在日常对设备进行调试、检查接线及开发板状态时使用。
