@@ -21,7 +21,7 @@
 
 安装如下图所示：
 
-.. image:: _static/6屏幕安装.png
+.. image:: _static/屏幕带螺丝.png
    :alt: LCD屏幕安装
    :align: center
 
@@ -29,6 +29,7 @@
 .. image:: _static/屏幕安装方向示意图.png
    :alt: LCD安装方向
    :align: center
+   :width: 400px
 
 
 .. admonition:: 注意事项
@@ -53,7 +54,7 @@
 
 
 .. admonition:: 注意事项
-   
+
  - 序号为“G、H、J、K”的椴木板，上下两端凸出的长度不同，为了安装牢固，稍长的一端应插于序号为“F”的椴木板上。
 
 
