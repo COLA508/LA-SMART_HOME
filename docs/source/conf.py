@@ -1,7 +1,7 @@
 # -- Project information -----------------------------------------------------
 project = 'LA_Smart_Home-Installation tutorial'
-copyright = '2024, Bot'
-author = 'Bot'
+copyright = '2025, Lafvin'
+author = 'Lafvin'
 
 # -- General configuration ---------------------------------------------------
 extensions = ["myst_parser"]
