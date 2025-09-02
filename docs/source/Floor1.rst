@@ -48,10 +48,10 @@
    :align: center
 
 
-.. image:: _static/一层盖板安装.png
+.. image:: _static/一层盖板安装1.png
    :alt: 一层组装
    :align: center
-   :width: 800px
+ 
 
 .. image:: _static/一层安装方向示意图.png
    :alt: 一层组装
