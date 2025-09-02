@@ -30,6 +30,10 @@
    :alt: 舵机安装至椴木板
    :align: center
 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
 
 步骤1-3：大门的齿轮与亚克力板安装至椴木板上
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -40,6 +44,11 @@
 .. image:: _static/大门亚克力带螺丝.png
    :alt: 大门亚克力安装
    :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
 
 .. admonition:: 注意事项
 
@@ -57,7 +66,10 @@
    :alt: RFID安装
    :align: center
 
+.. raw:: html
 
+   <div style="margin-top: 30px;"></div>
+   
 大门安装完成效果图：
 
 .. image:: _static/大门安装完成效果图.png
@@ -126,7 +138,7 @@
 .. admonition:: 注意事项
 
  - 先撕下灯带背面蓝色的胶带，再将灯带粘贴于围栏背面。
- - 安装位置建议：为获得最佳发光效果，请尽量将 RGB 灯带居中粘贴在围栏背面
+ - 为获得最佳发光效果，请尽量将 RGB 灯带居中粘贴在围栏背面
 
 
 步骤6：花园围栏的安装
