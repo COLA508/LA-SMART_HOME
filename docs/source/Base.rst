@@ -28,7 +28,7 @@
 
 安装如下图所示：
 
-.. image:: _static/2.电池盒带螺丝.png
+.. image:: _static/电池盒带螺丝.png
    :alt: 电池盒安装
    :align: center
  
@@ -44,7 +44,7 @@
 
 安装如下图所示：
 
-.. image:: _static/4.底座护板安装.png
+.. image:: _static/3.底座护板安装.png
    :alt: 底座安装
    :align: center
 
