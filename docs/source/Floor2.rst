@@ -138,7 +138,9 @@
    :alt: 屋顶安装
    :align: center
 
+.. raw:: html
 
+   <div style="margin-top: 30px;"></div>
 
 步骤7：二层围栏的安装
 ---------------------------
