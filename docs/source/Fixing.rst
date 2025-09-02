@@ -38,7 +38,6 @@
 .. image:: _static/调试盖板安装.png
    :alt: 调试窗口盖板
    :align: center
-   :width: 400px
 
 
 .. admonition:: 注意事项
