@@ -29,7 +29,7 @@
 .. image:: _static/屏幕安装方向示意图.png
    :alt: LCD安装方向
    :align: center
-   :width: 800px
+   :width: 600px
 
 
 .. admonition:: 注意事项
