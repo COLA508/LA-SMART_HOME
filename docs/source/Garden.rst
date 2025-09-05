@@ -26,7 +26,7 @@
 
 安装如下图所示：
 
-.. image:: _static/大门舵机带螺丝.png
+.. image:: _static/大门舵机安装带螺丝.png
    :alt: 舵机安装至椴木板
    :align: center
 
