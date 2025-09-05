@@ -72,7 +72,7 @@
 
 大门安装完成效果图：
 
-.. image:: _static/大门安装完成效果图.png
+.. image:: _static/大门安装完成效果图新.png
    :alt: 大门安装完成效果图
    :align: center
 
