@@ -62,7 +62,7 @@
 
 安装如下图所示：
 
-.. image:: _static/RFID感应模块带螺丝.png
+.. image:: _static/RFID感应模块安装新.png
    :alt: RFID安装
    :align: center
 
