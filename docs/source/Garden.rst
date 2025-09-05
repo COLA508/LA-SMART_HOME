@@ -84,7 +84,7 @@
 
 安装如下图所示：
 
-.. image:: _static/20.大门安装.png
+.. image:: _static/20.大门安装1.png
    :alt: 大门安装
    :align: center
 
